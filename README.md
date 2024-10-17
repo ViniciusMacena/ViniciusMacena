@@ -50,6 +50,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ViniciusMacena/ViniciusMacena/output/snake.svg" alt="Snake animation" />
+
 
 ###
