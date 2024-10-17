@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Developer Full-Stack Software Engineer<br>- HTML<br>- CSS<br>- JavaScript<br>- TypeScript<br>- Node.js</h2>
+<p align="left">Developer Full-Stack Software Engineer<br>- HTML<br>- CSS<br>- JavaScript<br>- TypeScript<br>- Node.js</p>
 
 ###
 
