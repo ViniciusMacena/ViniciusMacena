@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Developer Full-Stack Software Engineer<br>- HTML<br>- CSS<br>- Java<br></p>
+<p align="left">Profissional em formação nas áreas de Análise e Engenharia de Dados e Segurança do trabalho, combinando experiência prática em manutenção com habilidades técnicas em Python, SQL, e gestão de dados. Minha jornada inclui o desenvolvimento de expertise em modelagem de banco de dados, ETL, Big Data, AWS, Machine Learnig e segurança de dados. além de prevenção e controle de riscos ocupacionais. Apaixonado por resolver problemas complexos e garantir a conformidade e a segurança operacional, estou pronto para contribuir em ambientes dinâmicos e colaborativos.</p>
 
 ###
 
